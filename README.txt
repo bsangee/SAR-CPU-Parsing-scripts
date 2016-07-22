@@ -11,11 +11,11 @@ These should then be filtered based on timestamps using time.py
 
 The next thing to do is to filter based on timestamps, for this do as below:
 
-edit time.sh with the time range on which to filter
+Provide timestamps as arguments to time.sh
 
 then run as below:
 
-sh time.sh
+sh time.sh t1 t2 t3 t4 t5 t6 t7 t8 t9
 
 The output file is T1.csv
 
